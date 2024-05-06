@@ -70,12 +70,14 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dikshayadav7668&&style=flat-square)  
+![](https://leetcard.jacoblin.cool/dy76689889?ext=heatmap)
   
 
 <br/>  
 
 
 <br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
